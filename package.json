@@ -1,0 +1,1 @@
+{"description":"Deployable Twilio PSTN backend for the LaniCall international calling app prototype","engines":{"node":">=18"},"license":"UNLICENSED","main":"server.js","name":"lanicall-backend","private":true,"scripts":{"start":"node server.js"},"type":"module","version":"0.1.0"}
